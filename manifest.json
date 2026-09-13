@@ -1,0 +1,9 @@
+{
+  "id": "mindmap-mode-zh-cn",
+  "name": "Mindmap Mode 中文语言包",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.7",
+  "description": "为 Mindmap Mode 1.0.10 提供简体中文界面本地化。需要同时安装并启用原版 Mindmap Mode。",
+  "author": "OpenAI 中文本地化",
+  "isDesktopOnly": false
+}
